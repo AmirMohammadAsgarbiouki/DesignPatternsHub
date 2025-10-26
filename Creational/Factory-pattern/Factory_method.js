@@ -1,3 +1,5 @@
+//  **************** Factory-Method ************* 
+
 function Vechile(type, wheel) {
     this.type = type;
     this.wheel = wheel;
